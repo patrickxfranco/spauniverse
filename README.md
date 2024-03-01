@@ -36,8 +36,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Photoblog é um projeto simples para prática de técnicas apresentadas durante as aulas do Explorer.
 
-- [Acesse o projeto finalizado, online](https://patrickxfranco.github.io/spauniverse/)
-
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/nGZfVvZ4h0FaMxNT85t1E3/%5BDesafios-Explorer%5D-SPA-Universe-(Copy)?type=design&node-id=104%3A614&mode=design&t=xaPtz4npoMZqyKvq-1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
